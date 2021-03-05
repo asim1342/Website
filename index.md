@@ -1,4 +1,4 @@
-## Property of Asim Javed
+## Asim Javed's Projects
 
 You can use the [editor on GitHub](https://github.com/asim1342/Website/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
